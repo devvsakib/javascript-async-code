@@ -14,3 +14,5 @@ async function asyncTest() {
 }
 asyncTest();
 // function will wait 2second then output "im resolved". in the mean time, other work will continue without stoping.
+// await will say, hey function, wait for promise return
+// adn async will return the promise
