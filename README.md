@@ -1,2 +1,2 @@
 ## JavaScript Async Await code
-#### [devvsakib.me](devvsakib.me/blog)
+#### [devvsakib.me](http://devvsakib.me/blog)
